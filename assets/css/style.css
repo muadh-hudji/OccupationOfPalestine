@@ -22,7 +22,7 @@ header {
 #header-image {
     height: 600px;
     width: 100%;
-    background: url(/assets/images/sander-crombach-B5a_mgBLBX8-unsplash.jpg) no-repeat center;
+    background: url(/assets/images/sander-crombach-B5a_mgBLBX8-unsplash.jpg) no-repeat center center;
 }
 
 /* Heading and logo */
@@ -31,7 +31,14 @@ h1, h2 {
     font-family: oswald, sans-serif;
     letter-spacing: 4px;
     text-transform: uppercase;
-    color: #252525;
+    color: #3a3a3a;
+}
+
+#logo-menu {
+    border: solid 3px;
+    background-color: #f0f0f0;
+    height: 60px;
+    
 }
 
 #logo {
@@ -41,4 +48,25 @@ h1, h2 {
 }
 
 /* Navigation links */
+
+#menu {
+    font-size: 130%;
+    letter-spacing: 4px;
+    font-weight: bold;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu, #logo {
+    line-height: 60px;
+}
 
