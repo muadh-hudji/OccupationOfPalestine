@@ -12,7 +12,7 @@ body{
      color: #3a3a3a;
 }
 
-/* Header and logo */
+/* Header image */
 
 header {
     width: 100%;
@@ -24,3 +24,21 @@ header {
     width: 100%;
     background: url(/assets/images/sander-crombach-B5a_mgBLBX8-unsplash.jpg) no-repeat center;
 }
+
+/* Heading and logo */
+
+h1, h2 {
+    font-family: oswald, sans-serif;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #252525;
+}
+
+#logo {
+    float: left;
+    margin-left: 30px;
+    font-size: 250%;
+}
+
+/* Navigation links */
+
