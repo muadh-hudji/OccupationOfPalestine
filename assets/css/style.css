@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+    border: none;
+}
+
+body{
+    font-family: lato, sans-serif;
+     font-weight: 300;
+     color: #3a3a3a;
+}
+
+/* Header and logo */
+
+header {
+    width: 100%;
+    height: 700px;
+}
+
+#header-image {
+    height: 600px;
+    width: 100%;
+    background: url(/assets/images/sander-crombach-B5a_mgBLBX8-unsplash.jpg) no-repeat center;
+}
