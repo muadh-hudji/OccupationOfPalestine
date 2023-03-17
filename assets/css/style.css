@@ -70,3 +70,30 @@ h1, h2 {
     line-height: 60px;
 }
 
+
+
+/* Footer */
+
+footer {
+    height: 300px;
+}
+
+footer hr{
+    border: 1px solid;
+}
+
+footer h2, footer ul {
+    text-align: center;
+    margin-top: 2%;
+}
+
+#social-media li {
+    display: inline;
+    font-size: 180%;    
+}
+
+#social-media li i {
+    margin: 3%;
+    color: #3a3a3a;
+}
+
