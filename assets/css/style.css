@@ -66,9 +66,50 @@ h1, h2 {
     color: inherit;
 }
 
+#menu a:hover {
+    font-size: 130%;
+    border-bottom: 3px solid;
+}
+
 #menu, #logo {
     line-height: 60px;
 }
+
+/* facts */
+
+#facts {
+    height: 1500px;
+}
+
+#title-event {
+    text-align: center;
+    margin-top: 3%;
+}
+
+.box-size {
+    height: 150px;
+    width: 500px;
+    border: 2px outset;
+    padding: 0.5%;
+}
+
+.left-event {
+    margin: 5% 60% 0 30%;
+}
+
+.right-event {
+    margin: 5% 60% 0 40%;
+}
+
+.img-event {
+    max-height: 140px;
+    max-width: 200px;
+}
+
+.img-right-event {
+    float: right;
+}
+
 
 /* Footer */
 
@@ -80,9 +121,13 @@ footer hr{
     border: 1px solid;
 }
 
-footer h2, footer ul {
+footer h2{
     text-align: center;
     margin-top: 2%;
+}
+
+footer ul{
+    text-align: center;
 }
 
 #social-media li {
