@@ -110,6 +110,19 @@ h1, h2 {
     float: right;
 }
 
+/* Gallery */
+
+
+
+.gallery-image {
+    max-width: 600px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+}
 
 /* Footer */
 
