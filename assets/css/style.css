@@ -70,22 +70,6 @@ h1, h2 {
     line-height: 60px;
 }
 
-/* section timeline of history events */
-
-#timeline {
-    height: 1000px;
-    
-}
-
-#vert-timeline {
-    border-left: 6px solid;
-    height: 800px;
-    position: absolute;
-    left: 50%;
-    border-radius: 4px;
-    top: 80%;
-}
-
 /* Footer */
 
 footer {
