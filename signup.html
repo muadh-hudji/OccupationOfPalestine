@@ -20,7 +20,7 @@
             </a>
             <nav>
                 <ul id="menu">
-                    <li><a href="#">Sign Up</a></li>
+                    <li><a href="signup.html">Sign Up</a></li>
                     <li><a href="gallery.html">Gallery</a></li>
                     <li><a href="index.html">Home</a></li>
                 </ul>
@@ -28,8 +28,41 @@
         </div>
     </header>
 
-    <section>
-        
+    <section id="form-section">
+        <form action="https://formdump.codeinstitute.net/" method="post" class="signup-form">
+            <h2>Let's Sign Up and Support Palestine <i class="fa-sharp fa-regular fa-globe"></i></h2>
+
+            <label for="fname">First Name</label>
+            <input type="text" name="first-name" id="fname" required>
+
+            <label for="lname">Last Name</label>
+            <input type="text" name="last-name" id="lname">
+
+            <label for="email">Email Address</label>
+            <input type="email" name="email-address" id="email">
+
+            <label for="password">Password</label>
+            <input type="password" name="password1" id="password">
+
+            <h4>Are you intressted in participating in support events?</h4>
+
+            <label for="yes-support">YES</label>
+            <input type="radio" name="yes-support" id="yes-support">
+
+            <label for="no-support">NO</label>
+            <input type="radio" name="no-support" id="no-support">
+
+            <h4>Are you intressted in receiving latset news and updates?</h4>
+
+            <label for="yes-news">YES</label>
+            <input type="radio" name="yes-news" id="yes-news">
+
+            <label for="no-news">NO</label>
+            <input type="radio" name="no-news" id="no-news">
+
+            <input type="submit" value="Let's Support">
+
+        </form>
     </section>
 
     <footer>
