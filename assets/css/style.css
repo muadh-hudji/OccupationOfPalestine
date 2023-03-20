@@ -236,3 +236,26 @@ footer ul{
     color: #3a3a3a;
 }
 
+/* Media queries */
+
+/* For large to medium screen size from 1200 and down */
+
+@media screen and (max-width: 1200px) {
+
+    .right-event {
+        margin-left: 20%;
+    }
+
+    #menu {
+        font-size: 100%;
+    }
+
+    #logo {
+        font-size: 180%;
+    }
+    
+    .grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 5px;
+    }
+}
