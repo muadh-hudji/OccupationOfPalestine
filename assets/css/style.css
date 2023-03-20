@@ -112,7 +112,9 @@ h1, h2 {
 
 /* Gallery */
 
-
+.gallery-section {
+    margin-top: 0.5%;
+}
 
 .gallery-image {
     max-width: 600px;
@@ -124,6 +126,10 @@ h1, h2 {
     grid-gap: 5px;
     margin-left: 2%;
     margin-right: 2%;
+}
+
+.span-row-2 {
+    grid-row: span 2 / auto;
 }
 
 /* Form */
