@@ -122,6 +122,8 @@ h1, h2 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 /* Footer */
