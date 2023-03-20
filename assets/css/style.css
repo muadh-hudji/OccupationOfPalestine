@@ -12,6 +12,11 @@ body{
      color: #3a3a3a;
 }
 
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
 /* Header image */
 
 header {
@@ -23,6 +28,7 @@ header {
     height: 600px;
     width: 100%;
     background: url(/assets/images/sander-crombach-B5a_mgBLBX8-unsplash.jpg) no-repeat center center;
+    
 }
 
 /* Heading and logo */
@@ -94,11 +100,13 @@ h1, h2 {
 }
 
 .left-event {
-    margin: 5% 60% 0 30%;
+    margin: 5% 0 0 20%;
+    
 }
 
 .right-event {
-    margin: 5% 60% 0 40%;
+    margin: 5% 0 0 40%;
+    flex-direction: row-reverse;
 }
 
 .img-event {
@@ -106,9 +114,9 @@ h1, h2 {
     max-width: 200px;
 }
 
-.img-right-event {
+/* .img-right-event {
     float: right;
-}
+} */
 
 /* Gallery */
 
@@ -117,7 +125,7 @@ h1, h2 {
 }
 
 .gallery-image {
-    max-width: 600px;
+    max-width: 100%;
 }
 
 .grid {
@@ -145,6 +153,7 @@ h1, h2 {
     color: #fff;
     max-width: 600px;
     height: 480px;
+    border-radius: 6px;
     position: absolute;
     margin: 150px 10% 0 10%;
     padding: 30px;
