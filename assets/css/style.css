@@ -84,8 +84,8 @@ h1, h2 {
 /* facts */
 
 #facts {
-    /* height: 1500px; */
     display: block;
+    margin-bottom: 3%;
 }
 
 #title-event {
