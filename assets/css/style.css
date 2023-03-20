@@ -129,9 +129,62 @@ h1, h2 {
 /* Form */
 
 #form-section {
-    clear: left;
+    clear: both;
     background: url(/assets/images/gallery/separation-barrier1.jpg) no-repeat  center;
     height: 900px;
+}
+
+.signup-form{
+    background-color: rgba(60, 60, 60, 0.6);
+    color: #fff;
+    max-width: 600px;
+    height: 480px;
+    position: absolute;
+    margin: 150px 10% 0 10%;
+    padding: 30px;
+}
+
+.signup-form h2 {
+    color: #fff;
+    margin-bottom: 3%;
+}
+
+.text-input {
+    display: block;
+    width: 100%;
+    height: 25px;
+    background-color: transparent;
+    border: 1px solid #fafafa;
+    border-radius: 3px;
+    margin: 5px 0 15px 0;
+    color: #fafafa;
+    padding-left: 3%;
+}
+
+.text-input:hover {
+    border: 2px solid #fafafa;
+}
+
+.signup-form h4 {
+    margin: 1% 0 1% 0;
+}
+
+#submit-buttom {
+    display: block;
+    margin-top: 4%;
+    border: 2px solid #fafafa;
+    border-radius: 5px;
+    background-color: #3a3a3a;
+    color: #fafafa;
+    font-size: large;
+    width: 150px;
+    height: 50px;
+}
+
+#submit-buttom:hover{
+    background-color: #fafafa;
+    color: #3a3a3a;
+    font-weight: bold;
 }
 
 /* Footer */

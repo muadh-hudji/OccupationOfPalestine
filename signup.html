@@ -30,37 +30,37 @@
 
     <section id="form-section">
         <form action="https://formdump.codeinstitute.net/" method="post" class="signup-form">
-            <h2>Let's Sign Up and Support Palestine <i class="fa-sharp fa-regular fa-globe"></i></h2>
+            <h2>Let's Sign Up and Support Palestine <i class="fa-light fa-hand-peace"></i></h2>
 
             <label for="fname">First Name</label>
-            <input type="text" name="first-name" id="fname" required>
+            <input type="text" name="first-name" id="fname" class="text-input" required>
 
             <label for="lname">Last Name</label>
-            <input type="text" name="last-name" id="lname">
+            <input type="text" name="last-name" id="lname" class="text-input" required>
 
             <label for="email">Email Address</label>
-            <input type="email" name="email-address" id="email">
+            <input type="email" name="email-address" id="email" class="text-input" required>
 
             <label for="password">Password</label>
-            <input type="password" name="password1" id="password">
+            <input type="password" name="password1" id="password" class="text-input" required>
 
             <h4>Are you intressted in participating in support events?</h4>
 
-            <label for="yes-support">YES</label>
-            <input type="radio" name="yes-support" id="yes-support">
+            <label for="yes-support">Yes</label>
+            <input type="radio" name="support-events" value="yes" id="yes-support" required>
 
-            <label for="no-support">NO</label>
-            <input type="radio" name="no-support" id="no-support">
+            <label for="no-support">No</label>
+            <input type="radio" name="support-events" value="no" id="no" required>
 
             <h4>Are you intressted in receiving latset news and updates?</h4>
 
-            <label for="yes-news">YES</label>
-            <input type="radio" name="yes-news" id="yes-news">
+            <label for="yes-news">Yes</label>
+            <input type="radio" name="receive-news" value="yes" id="yes-news" required>
 
-            <label for="no-news">NO</label>
-            <input type="radio" name="no-news" id="no-news">
+            <label for="no-news">No</label>
+            <input type="radio" name="receive-news" value="no" id="no-news" required>
 
-            <input type="submit" value="Let's Support">
+            <input type="submit" value="Let's Support" id="submit-buttom">
 
         </form>
     </section>
