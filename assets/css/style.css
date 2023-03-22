@@ -12,16 +12,14 @@ body{
      color: #3a3a3a;
 }
 
-.flex-container {
-    display: flex;
-    flex-direction: row;
-}
+
 
 /* Header image */
 
 header {
     width: 100%;
-    height: 666px;
+    /* height: 666px; */
+    display: block;
 }
 
 #header-image {
@@ -67,6 +65,7 @@ h1, h2 {
     margin-right: 30px;
 }
 
+
 #menu a {
     text-decoration: none;
     color: inherit;
@@ -91,6 +90,11 @@ h1, h2 {
 #title-event {
     text-align: center;
     margin-top: 3%;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
 }
 
 .box-size {
@@ -238,7 +242,7 @@ footer ul{
 
 /* Media queries */
 
-/* For large to medium screen size from 1200 and down */
+/* For large to medium screen size from 1200px and down */
 
 @media screen and (max-width: 1200px) {
 
@@ -258,4 +262,39 @@ footer ul{
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 5px;
     }
+}
+
+/* For medium to small screen size from 850 and down */
+
+@media screen and (max-width: 850px) {
+
+    #logo {
+        font-size: 150%;
+    }
+
+    #menu  {
+        float: left;
+        clear: left;
+        line-height: 15px;
+        margin-left: 30px;
+    }
+
+    #logo-menu {
+        height: 85px;
+    }
+
+    .box-size {
+        height: min-content;
+        width: 90%;
+    }
+
+    .div-text {
+        width: 100%;
+    }
+
+    .right-event, .left-event{
+        margin-left: 5%;
+    }
+
+
 }
