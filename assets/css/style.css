@@ -282,6 +282,10 @@ footer ul{
         height: 85px;
     }
 
+    h1, h2 {
+        letter-spacing: 2px;
+    }
+
     .box-size {
         height: min-content;
         width: 90%;
