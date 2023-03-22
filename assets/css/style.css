@@ -161,7 +161,7 @@ h1, h2 {
     background-color: rgba(60, 60, 60, 0.6);
     color: #fff;
     max-width: 600px;
-    height: 480px;
+    display: block;
     border-radius: 6px;
     position: absolute;
     margin: 150px 10% 0 10%;
