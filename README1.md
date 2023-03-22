@@ -49,12 +49,21 @@ pic
 
 pic
 
+### Features left to implement
+
+- Timeline of events on home page
+- News section on home page
+
 ## Testing
+
+### The page on different screen sizes
+
 
 ### Validation Test
 
 - HTML
-
+    - Warning about using section item without h1-h6 head, if head titles are not needed then it's recommended to use div items instead
+    - Error about having an image name with a space
 
 - CSS
 
