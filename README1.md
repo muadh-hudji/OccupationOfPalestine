@@ -13,7 +13,7 @@ pic
 
 -__Header image__
 
-    - The header of the page include an image of Al-Aqsa Mosque with focus on Dom of the Rock surrounded by Israeli settlements and buildings which sybmolizes the suffering of the Palestinian people.
+   - The header of the page include an image of Al-Aqsa Mosque with focus on Dom of the Rock surrounded by Israeli settlements and buildings which sybmolizes the suffering of the Palestinian people.
 
 - __Navigation Bar__
 
