@@ -15,6 +15,8 @@ pic
 
     - The header of the page include an image of Al-Aqsa Mosque with focus on Dom of the Rock surrounded by Israeli settlements and buildings which sybmolizes the suffering of the Palestinian people.
 
+    ![Header image](https://github.com/muadh-hudji/Portfolio1/blob/9b8f4c4a3c69d13b67516e70bd63790b97e8f29c/assets/images/sander-crombach-B5a_mgBLBX8-unsplash.jpg)
+
 - __Navigation Bar__
 
     - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
@@ -57,13 +59,17 @@ pic
 ## Testing
 
 ### The page on different screen sizes
-
+- Media queries is added to make the page suitable for different screen sizes:
+    - For large to medium screen size begins from 1200px and down
+    - For medium to small screen size begins from 850px and down
+    - for small to mini screen size begins from 646px and down 
 
 ### Validation Test
 
 - HTML
     - Warning about using section item without h1-h6 head, if head titles are not needed then it's recommended to use div items instead
     - Error about having an image name with a space
+    - 
 
 - CSS
 
