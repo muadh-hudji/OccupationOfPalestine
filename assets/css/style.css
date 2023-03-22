@@ -286,6 +286,10 @@ footer ul{
         letter-spacing: 2px;
     }
 
+    #title-event{
+        font-size: 120%;
+    }
+
     .box-size {
         height: min-content;
         width: 90%;
@@ -299,5 +303,45 @@ footer ul{
         margin-left: 5%;
     }
 
+
+}
+
+/* For small to mini screen size from 646px and down */
+
+@media screen and (max-width: 646px) {
+
+    #logo {
+        font-size: 130%;
+    }
+
+    h1, h2 {
+        letter-spacing: 1px;
+    }
+
+    #menu {
+        font-size: 90%;
+        letter-spacing: 2px;
+    }
+
+    #title-event{
+        font-size: 110%;
+    }
+
+    .flex-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .grid {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 1px;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+    }
+
+    body {
+        min-width: 320px;
+    }
 
 }
