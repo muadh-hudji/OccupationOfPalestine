@@ -70,6 +70,7 @@ pic
 ### Validation Test
 
 - HTML
+    - ![Validation of home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmuadh-hudji.github.io%2FPortfolio1%2Findex.html)
     - Warning about using section item without h1-h6 head, if head titles are not needed then it's recommended to use div items instead
     - Error about having an image name with a space
     - 
