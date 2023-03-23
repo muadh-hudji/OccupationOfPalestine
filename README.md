@@ -15,21 +15,21 @@ pic
 
     - The header of the page include an image of Al-Aqsa Mosque with focus on Dom of the Rock surrounded by Israeli settlements and buildings which sybmolizes the suffering of the Palestinian people.
 
-    ![Header image](https://github.com/muadh-hudji/Portfolio1/blob/9b8f4c4a3c69d13b67516e70bd63790b97e8f29c/assets/images/sander-crombach-B5a_mgBLBX8-unsplash.jpg)
+    ![Header image]()
 
 - __Navigation Bar__
 
     - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
     - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-    ![Nav bar](https://github.com/muadh-hudji/Portfolio1/blob/778b000cfeace8baeae600d902818c100c714e62/assets/images/image-page/nav-bar.PNG)
+    ![Nav bar]()
 
 - __The History Of Occupation__
 
     - The facts section provide the users historcal information about how Palestine got occupied and how the occupation has expanded. 
     - The information are provided with images that shows the main character or event.
 
-    ![Facts section](https://github.com/muadh-hudji/Portfolio1/blob/778b000cfeace8baeae600d902818c100c714e62/assets/images/image-page/facts-section.PNG)
+    ![Facts section]()
 
 - __The Footer__
 
@@ -43,7 +43,7 @@ pic
     - The gallery will provide the users with images that shows how the people are still suffering and paying the cost of the occupation.
     - The gallery section are identifing a peaceful way to support and sympathize with the Palestinian people.
 
-    ![Gallery](https://github.com/muadh-hudji/Portfolio1/blob/778b000cfeace8baeae600d902818c100c714e62/assets/images/image-page/Gallery.PNG)
+    ![Gallery](https://github.com/muadh-hudji/Portfolio1/blob/778b000cfeace8baeae600d902818c100c714e62/assets/images/image-page/gallery.PNG)
 
 - __The Sign Up Page__
 
