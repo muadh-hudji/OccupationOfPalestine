@@ -15,43 +15,43 @@ pic
 
     - The header of the page include an image of Al-Aqsa Mosque with focus on Dom of the Rock surrounded by Israeli settlements and buildings which sybmolizes the suffering of the Palestinian people.
 
-    ![Header image]()
+    ![Header image](https://github.com/muadh-hudji/Portfolio1/blob/d4d2a1995d17185a28ea9eef1c167e5d598c4acb/assets/images/alaqsa-mosque.jpg)
 
 - __Navigation Bar__
 
     - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
     - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-    ![Nav bar]()
+    ![Nav bar](https://github.com/muadh-hudji/Portfolio1/blob/d4d2a1995d17185a28ea9eef1c167e5d598c4acb/assets/images/nav-bar.PNG)
 
 - __The History Of Occupation__
 
     - The facts section provide the users historcal information about how Palestine got occupied and how the occupation has expanded. 
     - The information are provided with images that shows the main character or event.
 
-    ![Facts section]()
+    ![Facts section](https://github.com/muadh-hudji/Portfolio1/blob/d4d2a1995d17185a28ea9eef1c167e5d598c4acb/assets/images/facts-section.PNG)
 
 - __The Footer__
 
     - The footer section includes links to the relevant social media for Occupation Of Palestine. The links will open to a new tab to allow easy navigation for the user and to keep them in the page.
     - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-    ![Footer](https://github.com/muadh-hudji/Portfolio1/blob/778b000cfeace8baeae600d902818c100c714e62/assets/images/image-page/footer.PNG)
+    ![Footer](https://github.com/muadh-hudji/Portfolio1/blob/d4d2a1995d17185a28ea9eef1c167e5d598c4acb/assets/images/footer.PNG)
 
 - __The Gallery__
 
     - The gallery will provide the users with images that shows how the people are still suffering and paying the cost of the occupation.
     - The gallery section are identifing a peaceful way to support and sympathize with the Palestinian people.
 
-    ![Gallery](https://github.com/muadh-hudji/Portfolio1/blob/778b000cfeace8baeae600d902818c100c714e62/assets/images/image-page/gallery.PNG)
+    ![Gallery](https://github.com/muadh-hudji/Portfolio1/blob/d4d2a1995d17185a28ea9eef1c167e5d598c4acb/assets/images/gallery.PNG)
 
 - __The Sign Up Page__
 
     - The page will allow the user to get signed up to join the community. The user will be able to specify if they would like to be updated with information about supporting events, and if they would like to recieve news from the page. The user will be asked to submit their full name, email address and password.
 
-    ![Sign up page](https://github.com/muadh-hudji/Portfolio1/blob/778b000cfeace8baeae600d902818c100c714e62/assets/images/image-page/sign-up.PNG)
+    ![Sign up page](https://github.com/muadh-hudji/Portfolio1/blob/d4d2a1995d17185a28ea9eef1c167e5d598c4acb/assets/images/sign-up.PNG)
 
-### Features left to implement
+### Future Features
 
 - Timeline of events on home page
 - News section on home page
@@ -64,6 +64,9 @@ pic
     - For medium to small screen size begins from 850px and down
     - for small to mini screen size begins from 646px and down 
 
+### Manual Test
+
+
 ### Validation Test
 
 - HTML
@@ -73,10 +76,20 @@ pic
 
 - CSS
 
+- lighthouse
+
+### Fixed Bugs
+
 ### Unfixed Bugs
 
 
-## Deployment
+## Deployment and local development
+
+### Deployment
+
+### Copy Clone
+
+### Create a new Fork 
 
 
 ## Credits
