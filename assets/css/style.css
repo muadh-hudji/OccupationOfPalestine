@@ -97,14 +97,14 @@ h1, h2 {
 }
 
 .box-size {
-    height: 180px;
-    width: 600px;
+    height: 200px;
+    width: 700px;
     border: 2px outset;
     padding: 0.5%;
 }
 
 .left-event {
-    margin: 5% 0 0 20%;
+    margin: 5% 0 0 10%;
 }
 
 .div-text {
@@ -113,7 +113,7 @@ h1, h2 {
 }
 
 .right-event {
-    margin: 5% 0 0 40%;
+    margin: 5% 0 0 50%;
     flex-direction: row-reverse;
 }
 
@@ -241,12 +241,25 @@ footer ul{
 
 /* Media queries */
 
+/*For large to medium screen size from 1470px and down  */
+
+@media screen and (max-width: 1470px) {
+    
+    .right-event{
+        margin: 5% 0 0 38%;
+    }
+}
+
 /* For large to medium screen size from 1200px and down */
 
 @media screen and (max-width: 1200px) {
 
     .right-event {
-        margin-left: 20%;
+        margin: 5% auto;
+    }
+
+    .left-event {
+        margin: 5% auto;
     }
 
     #menu {
@@ -301,6 +314,7 @@ footer ul{
 
     .right-event, .left-event{
         margin-left: 5%;
+        padding: 1% 1.5%;
     }
 
 
@@ -340,8 +354,6 @@ footer ul{
         margin-right: 0.5%;
     }
 
-    body {
-        min-width: 320px;
-    }
+ 
 
 }
