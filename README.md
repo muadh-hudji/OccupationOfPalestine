@@ -60,9 +60,10 @@ pic
 
 ### The page on different screen sizes
 - Media queries is added to make the page suitable for different screen sizes:
+    - For x-large to large screen size begins from 1470px and down
     - For large to medium screen size begins from 1200px and down
     - For medium to small screen size begins from 850px and down
-    - for small to mini screen size begins from 646px and down 
+    - For small to mini screen size begins from 646px and down 
 
 ### Manual Test
 
@@ -71,16 +72,22 @@ pic
 
 - HTML
     - No error or warnings were returned when passing the home page through [W3C validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmuadh-hudji.github.io%2FOccupationOfPalestine%2Findex.html)
-    - 
-    - Warning about using section item without h1-h6 head, if head titles are not needed then it's recommended to use div items instead
-    - Error about having an image name with a space
-    - 
+    - No error or warnings were returned when passing the gallery page through [W3C validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmuadh-hudji.github.io%2FOccupationOfPalestine%2Fgallery.html)
+    - No error or warnings were returned when passing the sign up page through [W3C validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmuadh-hudji.github.io%2FOccupationOfPalestine%2Fsignup.html)
+
 
 - CSS
+    - No error or warnings were returned when passing the home page through [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmuadh-hudji.github.io%2FOccupationOfPalestine%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    - No error or warnings were returned when passing the gallery page through [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmuadh-hudji.github.io%2FOccupationOfPalestine%2Fgallery.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    - No error or warnings were returned when passing the sign up page through [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmuadh-hudji.github.io%2FOccupationOfPalestine%2Fsignup.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 - lighthouse
 
 ### Fixed Bugs
+
+- Warning about using section item without h1-h6 head, if head titles are not needed then it's recommended to use div items instead
+- Error about having an image name with a space
+- Warning about using section item if there is no need of h2 - h6, I have fixed it by replacing it with div item
 
 ### Unfixed Bugs
 
