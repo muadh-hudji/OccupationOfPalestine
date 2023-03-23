@@ -2,10 +2,7 @@
 
 Occupation Of Palestine is a site that provide a brief historical facts about the occupation of Palestine for perople whose intressted in knowing about the Palestinians suffering due to the occupation. The site will be targeted toward the people who wants to support Palestinans by sharing with them the history, pictures which reflects how Palestinians suffering and a sign up page for those who want to recieve news and updates on the topic.
 
-
-pic
-
-
+![Responsice Mockup](https://github.com/muadh-hudji/OccupationOfPalestine/blob/983d0ce4b46100cbf96aa5f4307dabe092278e4d/assets/images/occupation-of-palestine-mockup.PNG)
 
 ## Features
 
@@ -81,7 +78,9 @@ pic
     - No error or warnings were returned when passing the gallery page through [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmuadh-hudji.github.io%2FOccupationOfPalestine%2Fgallery.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
     - No error or warnings were returned when passing the sign up page through [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmuadh-hudji.github.io%2FOccupationOfPalestine%2Fsignup.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-- lighthouse
+- Report of lighthouse
+
+![Report of lighthouse](https://github.com/muadh-hudji/OccupationOfPalestine/blob/983d0ce4b46100cbf96aa5f4307dabe092278e4d/assets/images/lighthouse-report.PNG)
 
 ### Fixed Bugs
 
