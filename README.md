@@ -7,6 +7,20 @@ Occupation Of Palestine is a site that provide a brief historical facts about th
 [Live link](https://muadh-hudji.github.io/OccupationOfPalestine/index.html)
 
 ## User Experience (UX)
+Story of Three different users, experiences the site (Beginner, familiar and expert)
+
+Beginner user experience:
+- The user will at the first time know what the site is about and what information are provided on this website.
+- The user want to know how to navigate to reach the information, and will easly find out that the navigation menu is available on all pages
+- The user will gain information by breif text content and images which speaks directly to thier emotions and deliver a powerful message
+
+Familiar user experience:
+- The user feels familiar with the website and can easly reach the information by navigation menu.
+- The user is intreseted in learning more about the topic, and signing up to recieve more information.
+- The user using the social media linkes in the footer to join our community.
+
+Expert user experience:
+- The user is visiting the website to look after new content.
 
 ### Design
 The design of the site is chosed to be as simple as possible to make it easy for the users to reach the information without any complexity. The navgation menu is placed below the head image to have it closer to the content which will make it easier for the users to reach the other pages. 
