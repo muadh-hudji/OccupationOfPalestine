@@ -91,6 +91,7 @@ The site has been manually tested to ensure that everything in the site are work
 - Scrolling up and down on the pages to ensure that the items are positioned in correct places.
 - Resize the screen by using development tools to ensure that the pages are responsive and suitable to different screen sizes.
 - Ensure that the social media links in the footer are working by clicking on the icons.
+- Tested the website on different browsers: Chrome, explore and firefox.
 
 ### Validation Test
 
