@@ -1,10 +1,17 @@
 # OCCUPATION OF PALESTINE
 
-Occupation Of Palestine is a site that provide a brief historical facts about the occupation of Palestine for perople whose intressted in knowing about the Palestinians suffering due to the occupation. The site will be targeted toward the people who wants to support Palestinans by sharing with them the history, pictures which reflects how Palestinians suffering and a sign up page for those who want to recieve news and updates on the topic.
+Occupation Of Palestine is a site that provide a brief historical facts about the occupation of Palestine for perople whose intressted in knowing about the Palestinians suffering due to the occupation. The site will be targeted toward the people who wants to support Palestinans by sharing with them the history, pictures which reflects how Palestinians are still suffering and a sign up page for those who want to recieve news and updates on the topic.
 
 ![Responsice Mockup](https://github.com/muadh-hudji/OccupationOfPalestine/blob/983d0ce4b46100cbf96aa5f4307dabe092278e4d/assets/images/occupation-of-palestine-mockup.PNG)
 
 [Live link](https://muadh-hudji.github.io/OccupationOfPalestine/index.html)
+
+## User Experience (UX)
+
+### Design
+The design of the site is chosed to be as simple as possible to make it easy for the users to reach the information without any complexity. The navgation menu is placed below the head image to have it closer to the content which will make it easier for the users to reach the other pages. 
+
+The colors used are black and white.
 
 ## Features
 
