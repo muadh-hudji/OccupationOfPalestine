@@ -19,7 +19,7 @@ Occupation Of Palestine is a site that provide a brief historical facts about th
 - __Navigation Bar__
 
     - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-    - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+    - This section will allow the user to easily navigate through the site across all devices without having use the ‘back’ button.
 
     ![Nav bar](https://github.com/muadh-hudji/Portfolio1/blob/d4d2a1995d17185a28ea9eef1c167e5d598c4acb/assets/images/nav-bar.PNG)
 
@@ -33,7 +33,7 @@ Occupation Of Palestine is a site that provide a brief historical facts about th
 - __The Footer__
 
     - The footer section includes links to the relevant social media for Occupation Of Palestine. The links will open to a new tab to allow easy navigation for the user and to keep them in the page.
-    - The footer is valuable to the user as it encourages them to keep connected via social media.
+    - The footer is valuable to the user as it will make it easy for them to make contacts in our community via social media.
 
     ![Footer](https://github.com/muadh-hudji/Portfolio1/blob/d4d2a1995d17185a28ea9eef1c167e5d598c4acb/assets/images/footer.PNG)
 
@@ -67,7 +67,7 @@ Occupation Of Palestine is a site that provide a brief historical facts about th
 ### Manual Test
 The site has been manually tested to ensure that everything in the site are working as it should:
 - Navigating through the pages by navigation menu.
-- Scrolling up and down on the pages to ensure that items are positioned in correct places.
+- Scrolling up and down on the pages to ensure that the items are positioned in correct places.
 - Resize the screen by using development tools to ensure that the pages are responsive and suitable to different screen sizes.
 - Ensure that the social media links in the footer are working by clicking on the icons.
 
