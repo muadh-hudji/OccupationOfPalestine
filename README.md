@@ -4,6 +4,8 @@ Occupation Of Palestine is a site that provide a brief historical facts about th
 
 ![Responsice Mockup](https://github.com/muadh-hudji/OccupationOfPalestine/blob/983d0ce4b46100cbf96aa5f4307dabe092278e4d/assets/images/occupation-of-palestine-mockup.PNG)
 
+[Live link](https://muadh-hudji.github.io/OccupationOfPalestine/index.html)
+
 ## Features
 
 ### Existing Features
@@ -63,7 +65,11 @@ Occupation Of Palestine is a site that provide a brief historical facts about th
     - For small to mini screen size begins from 646px and down 
 
 ### Manual Test
-
+The site has been manually tested to ensure that everything in the site are working as it should:
+- Navigating through the pages by navigation menu.
+- Scrolling up and down on the pages to ensure that items are positioned in correct places.
+- Resize the screen by using development tools to ensure that the pages are responsive and suitable to different screen sizes.
+- Ensure that the social media links in the footer are working by clicking on the icons.
 
 ### Validation Test
 
@@ -84,12 +90,13 @@ Occupation Of Palestine is a site that provide a brief historical facts about th
 
 ### Fixed Bugs
 
-- Warning about using section item without h1-h6 head, if head titles are not needed then it's recommended to use div items instead
-- Error about having an image name with a space
-- Warning about using section item if there is no need of h2 - h6, I have fixed it by replacing it with div item
+- Warning about using section item without h1-h6 headings, if head titles are not needed then it's recommended to use div items instead, I have fixed it by replacing it with a div item.
+- Error about having an imagename with a space.
+- The background image in the head of the page and in sign up page wasn't working due to false pathing, i have include two points (../) in the begining to correct the path of the images.
+- The text content in facts section was spilling outside the div, i fixed it by separating the image and the text in different div items.
 
 ### Unfixed Bugs
-
+There is no known unfixed bugs has been identified before the submission.
 
 ## Deployment and local development
 
